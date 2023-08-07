@@ -47,7 +47,7 @@ Este es un ejercicio básico para practicar el uso de EJS en un proyecto de Node
 
    - Los estudiantes deben subir todo el código escrito durante el ejercicio al repositorio de GitHub que crearon.
    - Asegúrate de incluir todos los archivos necesarios, excluyendo la carpeta `node_modules`.
-
+s
 3. **Agregar una descripción (opcional)**
 
    - Como parte opcional, los estudiantes pueden agregar una breve descripción del ejercicio o cualquier otra información relevante al repositorio de GitHub.
